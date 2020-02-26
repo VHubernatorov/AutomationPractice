@@ -24,7 +24,6 @@ public class CheckingCheckBoxes {
 
     @BeforeClass
     public void addingWebDriver() {
-        System.setProperty("webdriver.chrome.driver", "/Users/Lexx/chromedriv/chromedriver.exe");
         driver = new ChromeDriver();
         driver.get("https://formy-project.herokuapp.com/checkbox");
     }
