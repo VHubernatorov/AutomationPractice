@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class checkingCheckBoxes {
+public class CheckingCheckBoxes {
     ChromeDriver driver;
 
     @DataProvider(name = "ListOfCSSSelector")

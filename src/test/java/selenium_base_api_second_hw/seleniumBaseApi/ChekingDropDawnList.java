@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class chekingDropDawnList {
+public class ChekingDropDawnList {
     ChromeDriver driver;
     WebElement element;
 
